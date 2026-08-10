@@ -135,7 +135,7 @@ research_stats:
   active_since: 2017
   metrics_updated: "Aug 2026"
   metrics_source: "OpenAlex (fallback)"
-  last_synced_at: "2026-08-03T09:35:11+00:00"
+  last_synced_at: "2026-08-10T07:22:33+00:00"
   profiles:
     - label: Google Scholar
       url: https://scholar.google.com/citations?user=LkngaM4AAAAJ&hl=en
