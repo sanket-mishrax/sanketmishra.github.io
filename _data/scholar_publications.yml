@@ -1,4 +1,4 @@
-synced_at: '2026-08-10T07:22:33+00:00'
+synced_at: '2026-08-17T06:43:38+00:00'
 source: OpenAlex (fallback)
 publications:
   - title: A Systematic Review of VANET Routing Protocols for Intelligent 
@@ -8,6 +8,20 @@ publications:
     scholar_id: W7134234163
     authors: ''
     venue: Journal of Advanced Transportation
+  - title: An Explainable Software Engineering Metric-Based Ensemble Framework 
+      for Android Malware Detection
+    year: 2026
+    citations: 0
+    scholar_id: W7202294366
+    authors: ''
+    venue: Zenodo (CERN European Organization for Nuclear Research)
+  - title: An Explainable Software Engineering Metric-Based Ensemble Framework 
+      for Android Malware Detection
+    year: 2026
+    citations: 0
+    scholar_id: W7202278298
+    authors: ''
+    venue: Zenodo (CERN European Organization for Nuclear Research)
   - title: 'Sockpuppet Detection in Digital Platforms: A Systematic Review of Techniques
       and Challenges'
     year: 2026
@@ -54,14 +68,14 @@ publications:
   - title: 'LIRAD: lightweight tree-based approaches on resource constrained IoT devices
       for attack detection'
     year: 2024
-    citations: 10
+    citations: 12
     scholar_id: W4404928305
     authors: ''
     venue: Cluster Computing
   - title: 'Tachyon: Enhancing stacked models using Bayesian optimization for intrusion
       detection using different sampling approaches'
     year: 2024
-    citations: 10
+    citations: 11
     scholar_id: W4401832876
     authors: ''
     venue: Egyptian Informatics Journal
@@ -122,7 +136,7 @@ publications:
   - title: Optimized Tree-based Ensembles for Intrusion Detection in Internet of
       Things
     year: 2023
-    citations: 2
+    citations: 3
     scholar_id: W4393172019
     authors: ''
     venue: ''

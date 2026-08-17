@@ -1,8 +1,22 @@
-synced_at: '2026-08-10T07:22:33+00:00'
+synced_at: '2026-08-17T06:43:38+00:00'
 source: OpenAlex (fallback)
 note: Publications found on the sync source but not matched to papers.bib. Add 
   them manually.
 publications:
+  - title: An Explainable Software Engineering Metric-Based Ensemble Framework 
+      for Android Malware Detection
+    year: 2026
+    citations: 0
+    scholar_id: W7202294366
+    authors: ''
+    venue: Zenodo (CERN European Organization for Nuclear Research)
+  - title: An Explainable Software Engineering Metric-Based Ensemble Framework 
+      for Android Malware Detection
+    year: 2026
+    citations: 0
+    scholar_id: W7202278298
+    authors: ''
+    venue: Zenodo (CERN European Organization for Nuclear Research)
   - title: 'Sockpuppet Detection in Digital Platforms: A Systematic Review of Techniques
       and Challenges'
     year: 2026
