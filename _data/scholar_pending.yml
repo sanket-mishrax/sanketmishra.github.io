@@ -1,4 +1,4 @@
-synced_at: '2026-08-17T06:43:38+00:00'
+synced_at: '2026-08-24T06:47:31+00:00'
 source: OpenAlex (fallback)
 note: Publications found on the sync source but not matched to papers.bib. Add 
   them manually.
@@ -24,7 +24,7 @@ publications:
     scholar_id: W7165676228
     authors: ''
     venue: ''
-  - title: 'ONNYX: Optimized Neural Networks Yielding eXplainable Insights from ECG
+  - title: 'ONNYX: Optimized Neural Networks Yielding eXplainable Insights from ECG
       Signals-Based Data Streams'
     year: 2025
     citations: 0

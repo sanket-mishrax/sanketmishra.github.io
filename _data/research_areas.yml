@@ -129,13 +129,13 @@ areas:
 
 research_stats:
   total_publications: 37
-  total_citations: 186
+  total_citations: 187
   h_index: 8
   i10_index: 4
   active_since: 2017
   metrics_updated: "Aug 2026"
   metrics_source: "OpenAlex (fallback)"
-  last_synced_at: "2026-08-17T06:43:38+00:00"
+  last_synced_at: "2026-08-24T06:47:31+00:00"
   profiles:
     - label: Google Scholar
       url: https://scholar.google.com/citations?user=LkngaM4AAAAJ&hl=en

@@ -1,10 +1,10 @@
-synced_at: '2026-08-17T06:43:38+00:00'
+synced_at: '2026-08-24T06:47:31+00:00'
 source: OpenAlex (fallback)
 publications:
   - title: A Systematic Review of VANET Routing Protocols for Intelligent 
       Transport Systems (ITSs)
     year: 2026
-    citations: 2
+    citations: 3
     scholar_id: W7134234163
     authors: ''
     venue: Journal of Advanced Transportation
@@ -58,7 +58,7 @@ publications:
     scholar_id: W4414538250
     authors: ''
     venue: IEEE Access
-  - title: 'ONNYX: Optimized Neural Networks Yielding eXplainable Insights from ECG
+  - title: 'ONNYX: Optimized Neural Networks Yielding eXplainable Insights from ECG
       Signals-Based Data Streams'
     year: 2025
     citations: 0
