@@ -15,7 +15,6 @@ areas:
       - "LIRAD: Lightweight tree-based approaches on resource constrained IoT devices"
       - "Tachyon: Enhancing stacked models using Bayesian optimization for intrusion detection"
       - "AURA: Adaptive unified real-time analytics for IoT intrusion detection"
-      - "CITADLE: Cyber intrusion tracking and defense layered environment"
 
   - name: "Online Machine Learning & Concept Drift"
     description: >-
@@ -78,7 +77,6 @@ areas:
       - "LIRAD: Lightweight tree-based approaches on resource constrained IoT devices"
       - "Optimized tree-based ensembles for intrusion detection in internet of things"
       - "SpectralRepNet: Real-time image dehazing for edge surveillance"
-      - "CITADLE: Cyber intrusion tracking and defense layered environment"
 
   - name: "Deep Learning & Computer Vision"
     description: >-
