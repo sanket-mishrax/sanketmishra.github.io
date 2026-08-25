@@ -102,12 +102,6 @@ AVSS:
   logo: /assets/img/venues/avss.svg
   alt: AVSS
 
-TENCON:
-  color: "#b71c1c"
-  url: https://tencon2026.org/
-  logo: /assets/img/venues/tencon.svg
-  alt: IEEE TENCON
-
 ICONIP:
   color: "#4527a0"
   url: https://iconip2024.org/
