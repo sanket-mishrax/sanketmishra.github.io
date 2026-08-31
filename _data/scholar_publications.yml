@@ -1,4 +1,4 @@
-synced_at: '2026-08-24T06:47:31+00:00'
+synced_at: '2026-08-31T12:31:07+00:00'
 source: OpenAlex (fallback)
 publications:
   - title: A Systematic Review of VANET Routing Protocols for Intelligent 
@@ -12,14 +12,14 @@ publications:
       for Android Malware Detection
     year: 2026
     citations: 0
-    scholar_id: W7202294366
+    scholar_id: W7202278298
     authors: ''
     venue: Zenodo (CERN European Organization for Nuclear Research)
   - title: An Explainable Software Engineering Metric-Based Ensemble Framework 
       for Android Malware Detection
     year: 2026
     citations: 0
-    scholar_id: W7202278298
+    scholar_id: W7202294366
     authors: ''
     venue: Zenodo (CERN European Organization for Nuclear Research)
   - title: 'Sockpuppet Detection in Digital Platforms: A Systematic Review of Techniques
@@ -75,7 +75,7 @@ publications:
   - title: 'Tachyon: Enhancing stacked models using Bayesian optimization for intrusion
       detection using different sampling approaches'
     year: 2024
-    citations: 11
+    citations: 12
     scholar_id: W4401832876
     authors: ''
     venue: Egyptian Informatics Journal
@@ -115,7 +115,7 @@ publications:
   - title: 'CURA: Real Time Artificial Intelligence and IoT based Fall Detection Systems
       for patients suffering from Dementia'
     year: 2023
-    citations: 6
+    citations: 7
     scholar_id: W4387018242
     authors: ''
     venue: EAI Endorsed Transactions on Pervasive Health and Technology
@@ -229,18 +229,18 @@ publications:
     scholar_id: W3011617738
     authors: ''
     venue: ''
+  - title: Preventing data tampering in IoT networks
+    year: 2019
+    citations: 8
+    scholar_id: W3036224308
+    authors: ''
+    venue: ''
   - title: An Evolutionary GA-Based Approach for Community Detection in IoT
     year: 2019
     citations: 8
     scholar_id: W2951628963
     authors: ''
     venue: IEEE Access
-  - title: Preventing data tampering in IoT networks
-    year: 2019
-    citations: 7
-    scholar_id: W3036224308
-    authors: ''
-    venue: ''
   - title: An Ingestion Based Analytics Framework for Complex Event Processing 
       Engine in Internet of Things
     year: 2018
